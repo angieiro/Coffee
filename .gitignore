@@ -5,6 +5,10 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+#Ignore bin and obj folders
+bin/
+obj/
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
